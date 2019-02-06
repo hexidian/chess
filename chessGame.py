@@ -1,5 +1,5 @@
 '''
-made by Leo Kastenberg and Will Hagele
+made by Leo Kastenberg and Will Hagele.
 '''
 import turtle
 import time
